@@ -93,12 +93,13 @@ sh jobs_test_semantickitti.sh
 If you find our work useful in your research, please consider citing:
 
     @article{shuai2021backward,
-      title={Backward Attentive Fusing Network with Local Aggregation Classifier for 3D Point Cloud Semantic Segmentation},
+      title={Backward Attentive Fusing Network With Local Aggregation Classifier for 3D Point Cloud Semantic Segmentation},
       author={Shuai, Hui and Xu, Xiang and Liu, Qingshan},
       journal={IEEE Transactions on Image Processing},
+      volume={30},
+      pages={4973--4984},
       year={2021},
       publisher={IEEE}
     }
-
 ### Acknowledge
 - Our code refers to <a href="https://github.com/QingyongHu/RandLA-Net">RandLA-Net</a>.
