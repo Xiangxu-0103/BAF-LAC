@@ -3,7 +3,7 @@
 This is the official implementation of **BAF-LAC** (TIP 2021), a novel point cloud semantic segmentation paradigm that introduces more context information. For technical details, please refer to:
 
 **Backward Attentive Fusing Network with Local Aggregation Classifier for 3D Point Cloud Semantic Segmentation**<br />
-Hui Shuai*, Xiang Xu*, Qingshan Liu. <br />
+Hui Shuai, Xiang Xu, Qingshan Liu. <br />
 **[[paper](https://ieeexplore.ieee.org/abstract/document/9410334)]** <br />
 
 ![architecture](./imgs/BAF-LAC.jpg)
